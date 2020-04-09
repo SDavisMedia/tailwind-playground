@@ -1,0 +1,19 @@
+{
+  "name": "tailwind-playground",
+  "version": "1.0.0",
+  "description": "A place to play with Tailwind CSS and Tailwind UI.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SDavisMedia/tailwind-playground.git"
+  },
+  "author": "Sean Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SDavisMedia/tailwind-playground/issues"
+  },
+  "homepage": "https://github.com/SDavisMedia/tailwind-playground#readme"
+}
